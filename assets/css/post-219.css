@@ -1,0 +1,896 @@
+.elementor-219 .elementor-element.elementor-element-f37b0a4:not(.elementor-motion-effects-element-type-background),
+.elementor-219 .elementor-element.elementor-element-f37b0a4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://www.node.hightech.com.ng/wp-content/uploads/2022/09/bg.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-219 .elementor-element.elementor-element-f37b0a4 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: -90px;
+    margin-bottom: 0px;
+    padding: 100px 0px 0px 0px;
+}
+
+.elementor-219 .elementor-element.elementor-element-f37b0a4>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-219 .elementor-element.elementor-element-9dfc6cf.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-9dfc6cf.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-9dfc6cf>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-219 .elementor-element.elementor-element-50e05ed .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-size: 61px;
+    font-weight: 700;
+}
+
+.elementor-219 .elementor-element.elementor-element-a3f06f4 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-219 .elementor-element.elementor-element-a3f06f4>.elementor-widget-container {
+    margin: -20px 0px 0px 0px;
+}
+
+.elementor-219 .elementor-element.elementor-element-790d2c2 .elementor-button {
+    padding: 20px 40px 20px 40px;
+}
+
+.elementor-219 .elementor-element.elementor-element-aca0ccd:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-aca0ccd>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("../images/world.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-219 .elementor-element.elementor-element-aca0ccd>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-219 .elementor-element.elementor-element-aca0ccd>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-6d4feb3 {
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.elementor-219 .elementor-element.elementor-element-1228651>.elementor-element-populated {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #8482965C;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-1228651>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-30300dc {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-30300dc>.elementor-widget-container {
+    margin: 80px 0px 0px 0px;
+}
+
+.elementor-219 .elementor-element.elementor-element-cf783a4 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-cf783a4>.elementor-widget-container {
+    margin: 0px 50px 0px 50px;
+}
+
+.elementor-219 .elementor-element.elementor-element-c35571e {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.elementor-219 .elementor-element.elementor-element-bb323f3:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-bb323f3>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-bb323f3>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-bb323f3>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-bb323f3>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-bb323f3>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-bb323f3>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-b0ef660 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-39b8dac {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-39b8dac .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-4e8b18e {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-0a04583:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-0a04583>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-0a04583>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 5px 0px 5px;
+    --e-column-margin-right: 5px;
+    --e-column-margin-left: 5px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-0a04583>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-0a04583>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-0a04583>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-0a04583>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-ce37af2 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-99304ab {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-99304ab .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-abf41ff {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-14420bb:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-14420bb>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-14420bb>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-14420bb>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-14420bb>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-14420bb>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-14420bb>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-8d123ff .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-55fa299 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-55fa299 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-c01efa3 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-5504d8c {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.elementor-219 .elementor-element.elementor-element-3285380:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-3285380>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-3285380>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-3285380>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-3285380>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-3285380>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-3285380>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-ac1c139 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-4b960fa {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-4b960fa .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-5528ff6 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-e3c6a3b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-e3c6a3b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-e3c6a3b>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 5px 0px 5px;
+    --e-column-margin-right: 5px;
+    --e-column-margin-left: 5px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-e3c6a3b>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-e3c6a3b>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-e3c6a3b>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-e3c6a3b>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-a78f045 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-ceb6bf1 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-ceb6bf1 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-3e8802a {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-445d53c:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-445d53c>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-445d53c>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-445d53c>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-445d53c>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-445d53c>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-445d53c>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-820a14b .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-578a112 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-578a112 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-5957fb1 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-4a25672 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.elementor-219 .elementor-element.elementor-element-17118fe:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-17118fe>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-17118fe>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-17118fe>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-17118fe>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-17118fe>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-17118fe>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-4e0e2c2 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-2eb26ce {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-2eb26ce .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-97d593e {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-d704b73:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-d704b73>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-d704b73>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 5px 0px 5px;
+    --e-column-margin-right: 5px;
+    --e-column-margin-left: 5px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-d704b73>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-d704b73>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-d704b73>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-d704b73>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-39b8fa6 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-2db52f8 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-2db52f8 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-1383e80 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-dfe331b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-dfe331b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-dfe331b>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-dfe331b>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-dfe331b>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-dfe331b>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-dfe331b>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-aaab8cc .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-b53f4b8 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-b53f4b8 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-11997e1 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-77ed2ad {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.elementor-219 .elementor-element.elementor-element-3200640:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-3200640>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-3200640>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-3200640>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-3200640>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-3200640>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-3200640>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-44e8080 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-b873519 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-b873519 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-e09b503 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-8aeab2f:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-8aeab2f>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-8aeab2f>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 5px 0px 5px;
+    --e-column-margin-right: 5px;
+    --e-column-margin-left: 5px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-8aeab2f>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-8aeab2f>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-8aeab2f>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-8aeab2f>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-6cd6b7e .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-46cfb54 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-46cfb54 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-73ce4ab {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-8724307:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-8724307>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-8724307>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-8724307>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-8724307>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-8724307>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-8724307>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-d81a2b2 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-b97d15c {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-b97d15c .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-f05b872 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-4cbd8ba {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.elementor-219 .elementor-element.elementor-element-a7572d1:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-a7572d1>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-a7572d1>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-a7572d1>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-a7572d1>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-a7572d1>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-a7572d1>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-83882cd .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-364d342 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-364d342 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-ae177a3 {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-9dcc088:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-219 .elementor-element.elementor-element-9dcc088>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1A1C2C00;
+}
+
+.elementor-219 .elementor-element.elementor-element-9dcc088>.elementor-element-populated {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 5px 0px 5px;
+    --e-column-margin-right: 5px;
+    --e-column-margin-left: 5px;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-219 .elementor-element.elementor-element-9dcc088>.elementor-element-populated,
+.elementor-219 .elementor-element.elementor-element-9dcc088>.elementor-element-populated>.elementor-background-overlay,
+.elementor-219 .elementor-element.elementor-element-9dcc088>.elementor-background-slideshow {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-219 .elementor-element.elementor-element-9dcc088>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-219 .elementor-element.elementor-element-21d9579 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-ddf918c {
+    text-align: center;
+}
+
+.elementor-219 .elementor-element.elementor-element-ddf918c .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-219 .elementor-element.elementor-element-b4af4a9 {
+    text-align: center;
+}
+
+@media(max-width:1024px) {
+    .elementor-219 .elementor-element.elementor-element-9dfc6cf>.elementor-element-populated {
+        padding: 0px 0px 0px 20px;
+    }
+    .elementor-219 .elementor-element.elementor-element-50e05ed .elementor-heading-title {
+        font-size: 43px;
+    }
+    .elementor-219 .elementor-element.elementor-element-a3f06f4 .elementor-heading-title {
+        font-size: 29px;
+    }
+    .elementor-219 .elementor-element.elementor-element-bb323f3>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+    .elementor-219 .elementor-element.elementor-element-14420bb>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+    .elementor-219 .elementor-element.elementor-element-3285380>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+    .elementor-219 .elementor-element.elementor-element-445d53c>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+    .elementor-219 .elementor-element.elementor-element-17118fe>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+    .elementor-219 .elementor-element.elementor-element-dfe331b>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+    .elementor-219 .elementor-element.elementor-element-3200640>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+    .elementor-219 .elementor-element.elementor-element-8724307>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+    .elementor-219 .elementor-element.elementor-element-a7572d1>.elementor-element-populated {
+        margin: 0px 5px 0px 5px;
+        --e-column-margin-right: 5px;
+        --e-column-margin-left: 5px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-219 .elementor-element.elementor-element-f37b0a4 {
+        padding: 120px 0px 0px 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-9dfc6cf>.elementor-element-populated {
+        margin: 0px 0px 30px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-790d2c2 .elementor-button {
+        padding: 10px 20px 10px 20px;
+    }
+    .elementor-219 .elementor-element.elementor-element-cf783a4>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-c35571e {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 10px 0px 10px;
+    }
+    .elementor-219 .elementor-element.elementor-element-bb323f3>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-0a04583>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-14420bb>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-5504d8c {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 10px 0px 10px;
+    }
+    .elementor-219 .elementor-element.elementor-element-3285380>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-e3c6a3b>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-445d53c>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-4a25672 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 10px 0px 10px;
+    }
+    .elementor-219 .elementor-element.elementor-element-17118fe>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-d704b73>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-dfe331b>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-77ed2ad {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 10px 0px 10px;
+    }
+    .elementor-219 .elementor-element.elementor-element-3200640>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-8aeab2f>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-8724307>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-4cbd8ba {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 10px 0px 10px;
+    }
+    .elementor-219 .elementor-element.elementor-element-a7572d1>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-219 .elementor-element.elementor-element-9dcc088>.elementor-element-populated {
+        margin: 0px 0px 10px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+}

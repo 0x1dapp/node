@@ -1,0 +1,112 @@
+.elementor-kit-8 {
+    --e-global-color-primary: #FFFFFF;
+    --e-global-color-secondary: #2CBCA5D9;
+    --e-global-color-text: #848296;
+    --e-global-color-accent: #BC3FEA;
+    --e-global-color-6143ef8: #020710;
+    --e-global-color-cd2f7fe: #1A1C2C;
+    --e-global-color-2a0ffe9: #FFFFFF;
+    --e-global-color-2ec5eb7: #1BFA00;
+    --e-global-typography-primary-font-family: "Inter";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Inter";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Inter";
+    --e-global-typography-accent-font-weight: 500;
+    color: var( --e-global-color-text);
+    font-family: "Inter", Sans-serif;
+    background-color: var( --e-global-color-6143ef8);
+    --e-page-transition-entrance-animation: e-page-transition-fade-out-right;
+    --e-page-transition-exit-animation: e-page-transition-fade-in-left;
+    --e-page-transition-animation-duration: 1500ms;
+    --e-preloader-animation-duration: 1500ms;
+    --e-preloader-delay: 0ms;
+    --e-preloader-color: #FFF;
+    --e-preloader-size: 20px;
+}
+
+.elementor-kit-8 a {
+    font-family: "Inter", Sans-serif;
+    text-decoration: none;
+}
+
+.elementor-kit-8 h1 {
+    color: var( --e-global-color-2a0ffe9);
+    font-family: "Inter", Sans-serif;
+}
+
+.elementor-kit-8 h2 {
+    color: var( --e-global-color-2a0ffe9);
+    font-family: "Inter", Sans-serif;
+}
+
+.elementor-kit-8 h3 {
+    color: var( --e-global-color-2a0ffe9);
+    font-family: "Inter", Sans-serif;
+}
+
+.elementor-kit-8 h4 {
+    color: var( --e-global-color-2a0ffe9);
+    font-family: "Inter", Sans-serif;
+}
+
+.elementor-kit-8 button,
+.elementor-kit-8 input[type="button"],
+.elementor-kit-8 input[type="submit"],
+.elementor-kit-8 .elementor-button {
+    font-family: "Inter", Sans-serif;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1140px;
+}
+
+.e-con {
+    --container-max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.elementor-element {
+    --widgets-spacing: 20px;
+}
+
+{}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+.elementor-kit-8 e-page-transition {
+    background-color: var( --e-global-color-6143ef8);
+}
+
+@media(max-width:1024px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px;
+    }
+    .e-con {
+        --container-max-width: 1024px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px;
+    }
+    .e-con {
+        --container-max-width: 767px;
+    }
+}
+
+/* Start custom CSS */
+
+.elementor-kit-8 a:link {
+    text-decoration: none;
+}
+
+/* End custom CSS */

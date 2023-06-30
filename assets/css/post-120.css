@@ -1,0 +1,46 @@
+.elementor-120 .elementor-element.elementor-element-490d98f {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var( --e-global-color-text);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-120 .elementor-element.elementor-element-490d98f,
+.elementor-120 .elementor-element.elementor-element-490d98f>.elementor-background-overlay {
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-120 .elementor-element.elementor-element-490d98f:hover {
+    box-shadow: 0px 0px 14px 2px rgba(129.64641068052936, 11.890760869565227, 140.25, 0.5);
+}
+
+.elementor-120 .elementor-element.elementor-element-490d98f>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-120 .elementor-element.elementor-element-0219728 img {
+    width: 100px;
+    border-radius: 500px 500px 500px 500px;
+}
+
+.elementor-120 .elementor-element.elementor-element-1c988f8 .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.elementor-120 .elementor-element.elementor-element-1c988f8>.elementor-widget-container {
+    margin: 20px 0px -20px 0px;
+}
+
+.elementor-120 .elementor-element.elementor-element-9dd612e {
+    font-family: "Inter", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}
+
+.elementor-120 .elementor-element.elementor-element-9dd612e>.elementor-widget-container {
+    margin: 0px 0px -10px 0px;
+}
